@@ -1,4 +1,9 @@
-对1.21.8 folia进行了支持 
-修复了一些崩服问题
-源项目开源地址https://gitee.com/valorin/duel-time3
-如果您想自己构建 您需要准备一个cmilib.jar文件在pox.xml里引用
+🚀 项目更新通知
+
+✅ 新增对 1.21.8 Folia 的支持
+🛠️ 修复了一些可能导致服务器崩溃（崩服）的问题
+
+🔗 源项目开源地址：https://gitee.com/valorin/duel-time3
+
+🔨 自行构建说明
+如果您想自己构建项目，需要准备一个 cmilib.jar 文件，并在 pom.xml 中添加引用
